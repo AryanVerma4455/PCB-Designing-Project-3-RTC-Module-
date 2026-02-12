@@ -10,12 +10,15 @@ This project helps beginners understand low-power design, I²C communication lay
 keyword
 
 1.Gerber File
+
 A Gerber file is the standard file format used to manufacture PCBs. It contains detailed information about each PCB layer (copper, solder mask, silkscreen, etc.) and is sent to the PCB manufacturer for fabrication.
 
 2️.Ground Plane
+
 A Ground Plane is a large copper area connected to GND on the PCB. It helps reduce electrical noise, improve signal integrity, and provide a low-resistance return path for current.
 
 3️.Trace Width
+
 Trace Width refers to the width of copper tracks on the PCB. It is important because it determines how much current a trace can safely carry without overheating.
 
 key Components:
